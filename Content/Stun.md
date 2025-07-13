@@ -1,0 +1,1 @@
+Stun is a devastating Effect. It adds 1 to the cooldown of all abilities of the affected character
