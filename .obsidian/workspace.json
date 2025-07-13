@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Stances.md",
+                "file": "Slash Ability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stances"
+              "title": "Slash Ability"
             }
           }
         ]
@@ -169,11 +169,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "5ee66a53e888d5f2",
+  "active": "f4b7f846f13811a8",
   "lastOpenFiles": [
+    "Images",
+    "Content/Character Archetypes.md",
+    "Slash Ability.md",
+    "Images/Pasted image 20250713111151.png",
+    "Images/Pasted image 20250713110809.png",
+    "Images/Pasted image 20250713110619.png",
+    "Images/Pasted image 20250713110415.png",
+    "Images/Pasted image 20250713110200.png",
+    "Content/Stances.md",
     "Content/Stun.md",
     "Abilities.md",
-    "Content/Stances.md",
     "Character Collision.md",
     "(Not) Turn Based Simultaneous turns.md",
     "Action.md",

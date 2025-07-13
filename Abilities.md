@@ -1,5 +1,6 @@
 Ability is formulated with the following components:
 Ability Name >
+Ability Cooldown > The amount of turns that this ability needs to reset and be used again.
 Ability Level > Scales ability characteristics
 Ability Type > Defines and identifies ability characteristics
 Initiative > when does this ability resolve
