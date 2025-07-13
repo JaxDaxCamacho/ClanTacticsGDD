@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "bac5aaafd9bf5054",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b88366537ff8dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee66a53e888d5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters have X abilities + Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Characters have X abilities + Stats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdee09cc6b2e01b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "263b42b86bc14ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4b7f846f13811a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a648bbb7297637d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4edd076bbae34b6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6ac6ae262e6a131",
+    "type": "split",
+    "children": [
+      {
+        "id": "54547678c4fd0d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b16bafb2bd56f737",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters have X abilities + Stats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Characters have X abilities + Stats"
+            }
+          },
+          {
+            "id": "42b76872d300a328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters have X abilities + Stats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Characters have X abilities + Stats"
+            }
+          },
+          {
+            "id": "95d4cd560d290e2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04b3c2fad3d99914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters have X abilities + Stats.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Characters have X abilities + Stats"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "f4b7f846f13811a8",
+  "lastOpenFiles": [
+    "Content",
+    "Auto generated Campaign.md",
+    "Action.md",
+    "(Not) Turn Based Simultaneous turns.md",
+    "Abilities.md",
+    "Stats.md",
+    "Special Ability.md",
+    "Single-Player First.md",
+    "Roster management.md",
+    "Reward Collection.md",
+    "Icons instead of characters.md",
+    "Hex based grid.md",
+    "Control of 1-3  Characters.md",
+    "Combat.md",
+    "Clan Tactics.md",
+    "Characters have X abilities + Stats.md"
+  ]
+}

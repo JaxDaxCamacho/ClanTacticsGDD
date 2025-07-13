@@ -1,0 +1,1 @@
+To keep visuals as simple as possible, characters are just hexagons with pngs and a direction indicator
