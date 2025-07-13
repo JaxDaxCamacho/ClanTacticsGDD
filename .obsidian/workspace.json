@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters have X abilities + Stats.md",
+                "file": "Icons instead of characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters have X abilities + Stats"
+              "title": "Icons instead of characters"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters have X abilities + Stats.md",
+                "file": "Icons instead of characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Characters have X abilities + Stats"
+              "title": "Backlinks for Icons instead of characters"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters have X abilities + Stats.md",
+                "file": "Icons instead of characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Characters have X abilities + Stats"
+              "title": "Outgoing links from Icons instead of characters"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters have X abilities + Stats.md",
+                "file": "Icons instead of characters.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters have X abilities + Stats"
+              "title": "Outline of Icons instead of characters"
             }
           }
         ],
@@ -169,8 +169,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "f4b7f846f13811a8",
+  "active": "5ee66a53e888d5f2",
   "lastOpenFiles": [
+    "Control of 1-3  Characters.md",
+    "Combat.md",
+    "Clan Tactics.md",
+    "Characters have X abilities + Stats.md",
     "Content",
     "Auto generated Campaign.md",
     "Action.md",
@@ -182,10 +186,6 @@
     "Roster management.md",
     "Reward Collection.md",
     "Icons instead of characters.md",
-    "Hex based grid.md",
-    "Control of 1-3  Characters.md",
-    "Combat.md",
-    "Clan Tactics.md",
-    "Characters have X abilities + Stats.md"
+    "Hex based grid.md"
   ]
 }
