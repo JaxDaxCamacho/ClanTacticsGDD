@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slash Ability.md",
+                "file": "Base/Combat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slash Ability"
+              "title": "Combat"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "e6ac6ae262e6a131",
@@ -169,35 +169,41 @@
       "templates:Insert template": false
     }
   },
-  "active": "f4b7f846f13811a8",
+  "active": "5ee66a53e888d5f2",
   "lastOpenFiles": [
-    "Images",
+    "Base/Single-Player First.md",
+    "Base/Special Ability.md",
+    "Base/Stats.md",
+    "Content/Spear Thrust.md",
+    "Content/Sprint.md",
+    "Content/Cleave.md",
     "Content/Character Archetypes.md",
-    "Slash Ability.md",
+    "Content/SideStep.md",
+    "Content/Reposition.md",
+    "Content/Flash Step.md",
+    "Content/Elemental Combat Styles.md",
+    "Content/Lotus Kata.md",
+    "Content/March.md",
+    "Content/Stun.md",
+    "Content/Stances.md",
+    "Base/Reward Collection.md",
+    "Content/Slash.md",
+    "Content/BackStep.md",
+    "Base/Ability Type.md",
+    "Base/Characters have X abilities + Stats.md",
+    "Base/Auto generated Campaign.md",
+    "Base/Character Collision.md",
+    "Base/Abilities.md",
+    "Base/Action.md",
+    "Base/Control of 1-3  Characters.md",
+    "Base/Combat.md",
+    "Base",
+    "Images",
     "Images/Pasted image 20250713111151.png",
     "Images/Pasted image 20250713110809.png",
     "Images/Pasted image 20250713110619.png",
     "Images/Pasted image 20250713110415.png",
     "Images/Pasted image 20250713110200.png",
-    "Content/Stances.md",
-    "Content/Stun.md",
-    "Abilities.md",
-    "Character Collision.md",
-    "(Not) Turn Based Simultaneous turns.md",
-    "Action.md",
-    "Content/Elemental Combat Styles.md",
-    "Hex based grid.md",
-    "Icons instead of characters.md",
-    "Control of 1-3  Characters.md",
-    "Combat.md",
-    "Clan Tactics.md",
-    "Characters have X abilities + Stats.md",
-    "Content",
-    "Auto generated Campaign.md",
-    "Stats.md",
-    "Special Ability.md",
-    "Single-Player First.md",
-    "Roster management.md",
-    "Reward Collection.md"
+    "Content"
   ]
 }
