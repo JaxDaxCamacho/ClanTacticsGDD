@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Forceful blow.md",
+                "file": "Content/Stone Combat Style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forceful blow"
+              "title": "Stone Combat Style"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Weapon Bash.md",
+                "file": "Content/Stances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Bash"
+              "title": "Stances"
             }
           },
           {
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,25 +282,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "47a5eef197215b1b",
+  "active": "ae41471ed3db5e12",
   "lastOpenFiles": [
-    "Content/Stone fist.md",
+    "Content/Water Combat Style.md",
+    "Content/Wind Combat Style.md",
+    "Content/Whirlwind.md",
     "Content/Forceful blow.md",
+    "Content/Stances.md",
+    "Content/Haste.md",
+    "Content/Stone fist.md",
+    "Content/Invisible Shackles.md",
+    "Content/Bind.md",
+    "Content/Weapon Bash.md",
     "Content/Lotus Kata.md",
     "Content/Stone Combat Style.md",
     "Base/Action.md",
     "Base/Abilities.md",
-    "Content/Weapon Bash.md",
-    "Content/Invisible Shackles.md",
     "Content/Stun.md",
-    "Content/Whirlwind.md",
     "Content/Air Slash.md",
-    "Content/Haste.md",
-    "Content/Wind Combat Style.md",
     "Content/Grass Knot.md",
     "Content/Elemental Combat Styles.md",
     "Base/Ability Type.md",
-    "Content/Bind.md",
     "Content/BackStep.md",
     "Content/Spear Thrust.md",
     "Content/Slash.md",
@@ -308,8 +310,6 @@
     "Content/Character Archetypes.md",
     "Base/Auto generated Campaign.md",
     "Base/Hex based grid.md",
-    "Base/Combat.md",
-    "Base/Stats.md",
     "Images/Pasted image 20250714111459.png",
     "Images/Pasted image 20250713111151.png",
     "Images/Pasted image 20250713110809.png",

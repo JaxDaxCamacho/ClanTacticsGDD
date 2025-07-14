@@ -1,1 +1,1 @@
-Haste is a beneficial effect. It improves the affected character's next action by 2.
+Haste is a beneficial effect. It improves the affected character's  initiative for the next action by 2.
