@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Wind Combat Style"
             }
-          },
-          {
-            "id": "bc8372f6f8ddf3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Elemental Combat Styles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elemental Combat Styles"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,42 +169,42 @@
       "templates:Insert template": false
     }
   },
-  "active": "f4b7f846f13811a8",
+  "active": "5ee66a53e888d5f2",
   "lastOpenFiles": [
+    "Caltrops.md",
     "Content/Wind Combat Style.md",
     "Content/Elemental Combat Styles.md",
-    "Content/Flash Step.md",
-    "Content/Fire Combat Style.md",
-    "Content/Stone Combat Style.md",
-    "Content/Water Combat Style.md",
-    "Content/Stances.md",
+    "Grass Knot.md",
+    "Content/Invisible Shackles.md",
     "Content/Slash.md",
-    "Images/Pasted image 20250714111459.png",
-    "Content/Sprint.md",
-    "Content/Spear Thrust.md",
     "Content/Side Step.md",
-    "Content/March.md",
-    "Base/Abilities.md",
-    "Base/Special Ability.md",
-    "Content/BackStep.md",
-    "Content/Stun.md",
-    "Content/Reposition.md",
+    "Content/Fire Combat Style.md",
+    "Content/Flash Step.md",
     "Content/Lotus Kata.md",
+    "Base/Ability Type.md",
+    "Content/March.md",
+    "Content/BackStep.md",
     "Content/Cleave.md",
     "Content/Character Archetypes.md",
-    "Base/Single-Player First.md",
-    "Base/Control of 1-3  Characters.md",
-    "Base/Hex based grid.md",
+    "Content/Stun.md",
+    "Content/Water Combat Style.md",
     "Base/Combat.md",
-    "Base/Stats.md",
-    "Base/Reward Collection.md",
-    "Base",
-    "Images",
+    "Base/Abilities.md",
+    "Content/Stone Combat Style.md",
+    "Content/Spear Thrust.md",
+    "Content/Reposition.md",
+    "Content/Stances.md",
+    "Base/Icons instead of characters.md",
+    "Base/Clan Tactics.md",
+    "Images/Pasted image 20250714111459.png",
     "Images/Pasted image 20250713111151.png",
     "Images/Pasted image 20250713110809.png",
     "Images/Pasted image 20250713110619.png",
-    "Images/Pasted image 20250713110415.png",
     "Images/Pasted image 20250713110200.png",
+    "Content/Sprint.md",
+    "Base",
+    "Images",
+    "Images/Pasted image 20250713110415.png",
     "Content"
   ]
 }

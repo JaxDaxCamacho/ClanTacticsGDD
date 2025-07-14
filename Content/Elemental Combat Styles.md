@@ -7,6 +7,6 @@
 
 [[Stone Combat Style]] > Blocking and parrying to then deliver counter blows.  Waits to catch the enemy in blocks so that it can deliver strong counterattacks.
 
-Each Character can have up to two elemental combat styles, which allows them have [[Special Ability]] of that style. Mixing styles will result in advanced [[Stances]].
+Each Character can have up to two elemental combat styles, which allows them to have [[Special Ability]] of that style. Mixing styles will result in advanced [[Stances]].
 
  
