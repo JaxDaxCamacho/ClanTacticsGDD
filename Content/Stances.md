@@ -5,7 +5,7 @@ There are 4 Elemental stances.
 Fire > Additional Damage to Attacks. Each attack thrown increases this bonus damage, which resets when a different action is taken. 
 Water > On character collision you don't get stunned. 
 Wind > After performing any action, you'll try and step back opposite to your facing. This doesn't trigger collision.
-Stone > Each time you successfully block and ability add a stone counter. Stone Counters are added to the damage of counterattacks.
+Stone > Each time you successfully block an ability add a stone counter. Stone Counters are added to the damage of counterattacks.
 
 6 Advanced Stances . 
 Advanced Stances are taken by characters that mix these two combat styles

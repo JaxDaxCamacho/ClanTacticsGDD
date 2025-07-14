@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Fire Combat Style.md",
+                "file": "Content/Stone Combat Style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire Combat Style"
+              "title": "Stone Combat Style"
             }
           },
           {
-            "id": "bc8372f6f8ddf3f7",
+            "id": "bdf68924c52ff81a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,34 @@
               },
               "icon": "lucide-file",
               "title": "Elemental Combat Styles"
+            }
+          },
+          {
+            "id": "b21a960cfcedac05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Stances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stances"
+            }
+          },
+          {
+            "id": "731dd9edc5916ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Wind Combat Style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wind Combat Style"
             }
           }
         ]
@@ -185,40 +213,40 @@
   },
   "active": "5ee66a53e888d5f2",
   "lastOpenFiles": [
-    "Content/Water Combat Style.md",
+    "Content/Elemental Combat Styles.md",
     "Content/Stone Combat Style.md",
     "Content/Stances.md",
     "Content/Wind Combat Style.md",
-    "Content/Fire Combat Style.md",
-    "Content/Flash Step.md",
-    "Caltrops.md",
-    "Grass Knot.md",
-    "Content/Fire Moves",
-    "Content/Elemental Combat Styles.md",
     "Content/Invisible Shackles.md",
-    "Content/Spear Thrust.md",
-    "Content/Slash.md",
+    "Content/Fire Combat Style.md",
+    "Content/Water Combat Style.md",
     "Images/Pasted image 20250714111459.png",
-    "Content/Sprint.md",
-    "Content/Side Step.md",
-    "Content/March.md",
-    "Base/Abilities.md",
-    "Base/Special Ability.md",
-    "Content/BackStep.md",
-    "Content/Stun.md",
-    "Content/Reposition.md",
-    "Content/Lotus Kata.md",
-    "Content/Cleave.md",
-    "Content/Character Archetypes.md",
-    "Base/Single-Player First.md",
-    "Base/Control of 1-3  Characters.md",
-    "Base",
-    "Images",
     "Images/Pasted image 20250713111151.png",
     "Images/Pasted image 20250713110809.png",
     "Images/Pasted image 20250713110619.png",
     "Images/Pasted image 20250713110415.png",
     "Images/Pasted image 20250713110200.png",
+    "Content/Grass Knot.md",
+    "Content/Caltrops.md",
+    "Content/Whirlwind.md",
+    "Vortex.md",
+    "Air Slash.md",
+    "Shockwave.md",
+    "Base/Ability Type.md",
+    "Content/Side Step.md",
+    "Base/Abilities.md",
+    "Base/Action.md",
+    "Base/Auto generated Campaign.md",
+    "Base/Character Collision.md",
+    "Base/Characters have X abilities + Stats.md",
+    "Content/Slash.md",
+    "Content/Flash Step.md",
+    "Content/Lotus Kata.md",
+    "Content/March.md",
+    "Content/BackStep.md",
+    "Content/Cleave.md",
+    "Base",
+    "Images",
     "Content"
   ]
 }
