@@ -1,0 +1,1 @@
+Bind is a movement impairing effect. Disables the affected user's movement for 1 turn.

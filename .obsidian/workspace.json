@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Content/Wind Combat Style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wind Combat Style"
+            }
+          },
+          {
+            "id": "0acbcdf5a11fa2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Content/Stone Combat Style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Stone Combat Style"
+            }
+          },
+          {
+            "id": "ae41471ed3db5e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Forceful blow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forceful blow"
+            }
+          },
+          {
+            "id": "ee692b9ffe93aa65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Action.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Action"
+            }
+          },
+          {
+            "id": "0b1c352fd2ad832c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Stone fist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stone fist"
+            }
+          },
+          {
+            "id": "47a5eef197215b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Weapon Bash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapon Bash"
+            }
+          },
+          {
+            "id": "28da063303775978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Abilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abilities"
             }
           },
           {
@@ -36,20 +120,6 @@
             }
           },
           {
-            "id": "b21a960cfcedac05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Stances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stances"
-            }
-          },
-          {
             "id": "731dd9edc5916ab3",
             "type": "leaf",
             "state": {
@@ -63,7 +133,8 @@
               "title": "Wind Combat Style"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,40 +282,40 @@
       "templates:Insert template": false
     }
   },
-  "active": "5ee66a53e888d5f2",
+  "active": "47a5eef197215b1b",
   "lastOpenFiles": [
-    "Content/Elemental Combat Styles.md",
+    "Content/Stone fist.md",
+    "Content/Forceful blow.md",
+    "Content/Lotus Kata.md",
     "Content/Stone Combat Style.md",
-    "Content/Stances.md",
-    "Content/Wind Combat Style.md",
+    "Base/Action.md",
+    "Base/Abilities.md",
+    "Content/Weapon Bash.md",
     "Content/Invisible Shackles.md",
-    "Content/Fire Combat Style.md",
-    "Content/Water Combat Style.md",
+    "Content/Stun.md",
+    "Content/Whirlwind.md",
+    "Content/Air Slash.md",
+    "Content/Haste.md",
+    "Content/Wind Combat Style.md",
+    "Content/Grass Knot.md",
+    "Content/Elemental Combat Styles.md",
+    "Base/Ability Type.md",
+    "Content/Bind.md",
+    "Content/BackStep.md",
+    "Content/Spear Thrust.md",
+    "Content/Slash.md",
+    "Base/Special Ability.md",
+    "Content/Character Archetypes.md",
+    "Base/Auto generated Campaign.md",
+    "Base/Hex based grid.md",
+    "Base/Combat.md",
+    "Base/Stats.md",
     "Images/Pasted image 20250714111459.png",
     "Images/Pasted image 20250713111151.png",
     "Images/Pasted image 20250713110809.png",
     "Images/Pasted image 20250713110619.png",
     "Images/Pasted image 20250713110415.png",
     "Images/Pasted image 20250713110200.png",
-    "Content/Grass Knot.md",
-    "Content/Caltrops.md",
-    "Content/Whirlwind.md",
-    "Vortex.md",
-    "Air Slash.md",
-    "Shockwave.md",
-    "Base/Ability Type.md",
-    "Content/Side Step.md",
-    "Base/Abilities.md",
-    "Base/Action.md",
-    "Base/Auto generated Campaign.md",
-    "Base/Character Collision.md",
-    "Base/Characters have X abilities + Stats.md",
-    "Content/Slash.md",
-    "Content/Flash Step.md",
-    "Content/Lotus Kata.md",
-    "Content/March.md",
-    "Content/BackStep.md",
-    "Content/Cleave.md",
     "Base",
     "Images",
     "Content"
