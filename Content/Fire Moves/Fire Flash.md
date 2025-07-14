@@ -14,4 +14,4 @@ Fire Slash Attack
 	Target Hex > Hex directly in front of user's facing
 	Facing > User's Facing
 	Damage > 5 + (2 * Ability Level)
-	Armor Pen > 1
+	Armor Pen > 1![[FlashFire.png]]

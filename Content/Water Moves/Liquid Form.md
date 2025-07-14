@@ -13,4 +13,4 @@ Water Slash Attack
 	Target Hex > Hex directly in front of user's facing
 	Facing > User's Facing
 	Damage > 2 + (2 * Ability Level)
-	Armor Pen > 0
+	Armor Pen > 0![[LiquidForm.png]]

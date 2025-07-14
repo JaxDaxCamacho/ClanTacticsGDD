@@ -13,4 +13,4 @@ Slash Attack
 	Target Hexes > 2 Hexes adjacent to the facing of the character going to the left 
 	Facing > User's Facing
 	Damage > 3 + (2 * Ability Level)
-	Armor Pen > 1
+	Armor Pen > 1![[Cleave.png]]

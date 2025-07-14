@@ -14,4 +14,4 @@ Water Slash Attack
 	Facing > User's left side
 	Damage > 2 + (2 * Ability Level)
 	Armor Pen > 0
-	On hit Kick enemy back (Push + stun), then step foward and rotate to right twice
+	On hit Kick enemy back (Push + stun), then step foward and rotate to right twice![[Typhoon.png]]

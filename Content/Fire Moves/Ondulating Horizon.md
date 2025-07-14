@@ -15,3 +15,4 @@ Area Fire attack
 	Facing > User's Facing
 	Damage > 4 + (2 * Ability Level)
 	Armor Pen > 0
+	![[OndulatingHorizon.png]]

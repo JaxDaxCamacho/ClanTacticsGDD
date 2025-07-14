@@ -14,4 +14,4 @@ Water Slash Attack
 	Facing > User's Facing
 	Damage > 4 + (2 * Ability Level)
 	Armor Pen > 0
-	On hit push yourself forward twice
+	On hit push yourself forward twice![[Riptide.png]]
