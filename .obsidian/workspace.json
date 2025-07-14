@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Flash Step.md",
+                "file": "Content/BackStep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash Step"
+              "title": "BackStep"
             }
           }
         ]
@@ -169,56 +169,21 @@
       "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "252d0eaf443e77fb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e3796aca6416ab6",
-        "type": "window",
-        "children": [
-          {
-            "id": "0674097eb171d350",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c713353a77fa2ee0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Content/Water Combat Style.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Water Combat Style"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -817,
-        "y": 252,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c713353a77fa2ee0",
+  "active": "f4b7f846f13811a8",
   "lastOpenFiles": [
-    "Content/Whirlwind.md",
-    "Content/Weapon Bash.md",
-    "Content/Stone fist.md",
-    "Content/Haste.md",
-    "Content/Formless Strike.md",
-    "Content/Forceful blow.md",
     "Content/Bind.md",
-    "Content/Air Slash.md",
+    "Content/Wind Moves/Invisible Shackles.md",
+    "Content/Wind Moves/Whirlwind.md",
+    "Content/Wind Moves/Formless Strike.md",
+    "Content/Stone Moves",
+    "Content/Wind Moves",
     "Content/Flash Step.md",
+    "Content/Water Combat Style.md",
+    "Content/Stone Moves/Weapon Bash.md",
+    "Content/Stone Moves/Stone fist.md",
+    "Content/Haste.md",
+    "Content/Stone Moves/Forceful blow.md",
+    "Content/Wind Moves/Air Slash.md",
     "Content/Lotus Kata.md",
     "Content/Side Step.md",
     "Images/BackStep.png",
@@ -233,7 +198,6 @@
     "Content/March.md",
     "Images/March.png",
     "Images/LotusKata.png",
-    "Content/Invisible Shackles.md",
     "Content/Grass Knot.md",
     "Images/FlashStep.png",
     "Content/Fire Combat Style.md",
@@ -244,8 +208,6 @@
     "Content/Water Moves/Typhoon.md",
     "Images/Typhoon.png",
     "Content/Water Moves/Riptide.md",
-    "Content/Water Moves/Liquid Form.md",
-    "Content/Fire Moves/Fire Flash.md",
     "Content/Water Moves",
     "Content/Fire Moves",
     "Base",
