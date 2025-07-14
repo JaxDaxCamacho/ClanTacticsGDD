@@ -1,4 +1,4 @@
-Ability Name > Slash
+0Ability Name > Slash
 Ability Cooldown > 0
 Ability Level > 1
 [[Ability Type]] > Single Target Attack
@@ -14,3 +14,4 @@ Slash Attack
 	Facing > User's Facing
 	Damage > 3 + (2 * Ability Level)
 	Armor Pen > 0
+	![[Pasted image 20250714111459.png]]
