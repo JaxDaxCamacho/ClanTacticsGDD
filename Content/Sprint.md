@@ -7,4 +7,4 @@ Movement Allowance > 5
 Movement Requirement > 0
 Rotation Allowance > 3
 Rotation Requirement > 0
-Action? (Attack, Block or etc)
+Action? (Attack, Block or etc)![[Sprint.png]]

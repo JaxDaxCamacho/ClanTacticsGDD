@@ -19,4 +19,4 @@ Lotus Strike
 	Target Hex > Hex directly to the right of the hex in front of the character's facing
 	Facing > User's Facing
 	Damage > 2 + (2 * Ability Level)
-	Armor Pen > 0
+	Armor Pen > 0![[LotusKata.png]]

@@ -7,4 +7,4 @@ Movement Allowance > 1
 Movement Requirement > 0
 Rotation Allowance > 1
 Rotation Requirement > 0
-Action? (Attack, Block or etc)
+Action? (Attack, Block or etc)![[FlashStep.png]]

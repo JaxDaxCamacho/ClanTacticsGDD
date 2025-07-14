@@ -9,3 +9,4 @@ Rotation Allowance > 0
 Rotation Requirement > 0
 Action? (Attack, Block or etc) >
 Self Push Back 1 hex
+![[BackStep.png]]

@@ -13,4 +13,4 @@ Slash Attack
 	Target Hexes > 2 Hexes 1 hex away from the adjacent facing hex 
 	Facing > User's Facing
 	Damage > 4 + (1 * Ability Level)
-	Armor Pen > 2
+	Armor Pen > 2![[SpearThrust.png]]
