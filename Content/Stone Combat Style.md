@@ -7,6 +7,6 @@ Stone combat style has 10 different abilities (Katas):
 5. [[Heavy Blade]] (Attack the target with the blunt side of the blade, breaking the target's guard and stunning it.)
 6. [[Dull Edge]] (Block the target's incoming strike and lowers the damage of their next attack.)
 7. [[Stoneskin]] (Steel the user against incoming strikes, increasing the user's armor by.)
-8. [[Stone fist]] (Delivers an attack against the target with a bonus modifier equal to the user's defense.)
+8. [[Immovable Strike]] (Delivers an attack against the target with a bonus modifier equal to the user's defense.)
 9. [[Ground Strike]] (Attack a target area in an area that counts as a counter attack.)
 10. [[Expose]] (Blocks an incoming attack and exposes a weakness in the target's defenses.)

@@ -1,4 +1,4 @@
-Ability Name > Weapon Bash
+Ability Name > Immovable Strike
 Ability Cooldown > 2
 Ability Level >1
 Ability Type > Single Target Attack

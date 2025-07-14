@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Wind Combat Style.md",
+                "file": "Content/Stone Moves/Immovable Strike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wind Combat Style"
+              "title": "Immovable Strike"
             }
           }
         ]
@@ -169,16 +169,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "f4b7f846f13811a8",
+  "active": "5ee66a53e888d5f2",
   "lastOpenFiles": [
+    "Content/Stone Moves/Weapon Bash.md",
+    "Content/Stone Moves/Immovable Strike.md",
+    "Content/Stone Moves/Forceful blow.md",
+    "Images/March.png",
+    "Images/Pasted image 20250713110200.png",
+    "Images/OndulatingHorizon.png",
+    "Images/BackStep.png",
+    "Images/Cleave.png",
+    "Images/FlashFire.png",
+    "Images/FlashStep.png",
+    "Images/IgniteOil.png",
+    "Images/LiquidForm.png",
+    "Images/LotusKata.png",
+    "Content/Wind Moves/Gale Reversal.md",
+    "Content/Wind Moves/Air Slash.md",
     "Content/Wind Moves/Whirlwind.md",
     "Content/Wind Moves/Invisible Shackles.md",
-    "Content/Wind Moves/Formless Strike.md",
-    "Content/Wind Moves/Air Slash.md",
+    "Content/Wind Combat Style.md",
     "Content/Wind Moves",
-    "Content/Stone Moves/Weapon Bash.md",
-    "Content/Stone Moves/Stone fist.md",
-    "Content/Stone Moves/Forceful blow.md",
     "Content/Stone Moves",
     "Content/Whirlwind.md",
     "Content/Weapon Bash.md",
@@ -188,20 +199,9 @@
     "Content/Forceful blow.md",
     "Content/Air Slash.md",
     "Content/Stone Combat Style.md",
-    "Content/Wind Combat Style.md",
     "Content/Stun.md",
     "Content/Water Combat Style.md",
     "Content/BackStep.md",
-    "Images/Typhoon.png",
-    "Images/Sprint.png",
-    "Images/SpearThrust.png",
-    "Images/SideStep.png",
-    "Images/Riptide.png",
-    "Images/Reposition.png",
-    "Images/Pasted image 20250714111459.png",
-    "Images/BackStep.png",
-    "Images/Cleave.png",
-    "Images/FlashFire.png",
     "Content/Water Moves/Typhoon.md",
     "Content/Water Moves/Riptide.md",
     "Content/Water Moves/Liquid Form.md",

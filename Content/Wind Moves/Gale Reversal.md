@@ -12,9 +12,9 @@ Pivot
 	Action Type > Dodge
 	Target Hex > Hex directly in front of user's facing
 	Facing > User's Facing
-	OnSuccessBlock > Trigger Flanking Strike
+	OnSuccessBlock > Trigger Reversal
 	OnFailBlock > Trigger BackStep
-Flanking Strike
+Revesal
 	Action Type > Attack
 	Effect Before Action > Check if User's Rear is clear, if true, Reposition to Rear.
 	Target Hex > Hex directly in front of the User

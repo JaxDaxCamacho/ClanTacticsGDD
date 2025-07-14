@@ -7,7 +7,7 @@ Wind combat style has 10 different abilities (Katas):
  5. [[Shockwave]] (Sends forward a force of wind that pushes back the oponent.)
  6. [[Vortex]] (generate a powerful wind that forces the target to move towards the user.)
  7. [[After Image]] (Dodge attacks by moving at such speeds that creates an after image, allowing for swift repositioning.)
- 8. [[Formless Strike]] (Dodge and counterattack by moving behind the target and attacking the target from behind.)
+ 8. [[Gale Reversal]] (Dodge and counterattack by moving behind the target and attacking the target from behind.)
  9. [[Whirlwind]] (Area attack that allows the user to attack any target around them.)
  10. [[Cross Cut]] (Area attack that consists of 2 air slashes in oposite directions creating a cross pattern.)
 
