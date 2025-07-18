@@ -1,4 +1,4 @@
-0Ability Name > Slash
+Ability Name > Slash
 Ability Cooldown > 0
 Ability Level > 1
 [[Ability Type]] > Single Target Attack
